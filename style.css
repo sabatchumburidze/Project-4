@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{ 
+    height: 100%;
+    width: 100%;
+}
+
+ul{
+    display: block;
+    text-align: right;
+    width: 90%;
+}
+
+nav{
+    display: inline;
+    width: 100%;
+}
+
+header{
+    display: block;
+    background: rgba(139, 232, 245, 1);
+    padding: 5px 10px 145px ;
+    height: 0px;
+    width: 100%;  
+    
+}
+
+a{
+    display:inline;
+    margin: 35px ;
+    font-family: BPG Glaho;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 55px;
+    color: rgba(249, 9, 9, 1);
+
+   
+}
+
+.heading-1{ 
+    display: inline;
+    margin: 5px ;
+    font-family: BPG Glaho;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 22px;
+    color: rgba(249, 9, 9, 1);
+
+}
+
+.heading-2{ 
+    display: inline;
+    margin: 5px ;
+    font-family: BPG Glaho;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 42px;
+    color: rgba(255, 239, 94, 1);
+
+}
+
+article{
+    display: inline-block;
+    background: rgba(242, 155, 244, 0.37);
+    height: 451px;
+    width: 100%; 
+    
+
+}
+
+h1{
+    color: rgba(117, 6, 6, 1); 
+    font-family: BPG Glaho;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 42px;  
+    margin-right: 548px;
+
+
+}
+
+
+p{
+    font-family: Arial GEO;  
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32.86px;
+    text-align: left;
+    margin-left: 140px;
+
+}
+
+.photo{
+    display: inline;
+    padding: 25px;
+    
+}
+
+figure{
+    display: block;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: 128px;
+    margin-right: 129px;
+    
+}
+
+
+figcaption{
+    display: inline;
+    color: rgba(238, 64, 54, 1);
+    font-style: italic;
+    padding: 145px;
+    text-align: right;
+    width: 100%;
+   
+}
+
+footer{ 
+    display: block;
+    background: #FFEF5E;
+    width: 100%;
+    height: 82px;
+    text-align: center;
+}
+
+i{
+    display: inline-block;
+    color: #0FA958;
+    font-size: 37px;
+    padding: 14px;
+    margin: 10px;
+    
+}
